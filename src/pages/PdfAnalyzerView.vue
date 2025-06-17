@@ -32,7 +32,7 @@
 
 <script setup>
 import { ref } from 'vue';
-import FileUploader from '@/components/FileUploader.vue';
+import FileUploader from '@/components/FileUpLoader.vue';
 import Loader from '@/components/ui/Loader.vue';
 import DefaultLayout from '@/layouts/DefaultLayout.vue';
 import Button from '@/components/ui/Button.vue';
