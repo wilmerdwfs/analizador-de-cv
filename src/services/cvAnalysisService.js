@@ -32,7 +32,7 @@ export const analizarCVConIA = async (textoCV) => {
       {
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer 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`
+          'Authorization': `Bearer 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`
         },
         timeout: 10000
       }
